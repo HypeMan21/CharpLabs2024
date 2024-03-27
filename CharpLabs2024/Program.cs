@@ -6,7 +6,7 @@ namespace CharpLabs2024
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello KOLIK!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
